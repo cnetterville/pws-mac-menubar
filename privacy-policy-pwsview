@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for PWSView</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts - Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-4 sm:p-6 md:p-8 lg:p-10">
+    <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-lg p-6 sm:p-8 md:p-10 lg:p-12">
+        <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 mb-4 sm:mb-6 rounded-md">Privacy Policy for PWSView</h1>
+
+        <p class="text-sm sm:text-base text-gray-600 mb-6 rounded-md">
+            <strong class="font-semibold">Last Updated:</strong> August 12, 2025
+        </p>
+
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            This Privacy Policy describes how "PWSView" (the "App") collects, uses, and discloses information when you use our application.
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">1. Information We Do Not Collect</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-4 rounded-md">
+            "PWSView" is designed with your privacy in mind. <strong class="font-bold">We do not collect any personal information from you.</strong> This includes, but is not limited to:
+        </p>
+        <ul class="list-disc list-inside text-base sm:text-lg text-gray-700 space-y-2 mb-6 ml-4 rounded-md">
+            <li>Your name, email address, or any other contact information.</li>
+            <li>Your location data (GPS, IP address, etc.).</li>
+            <li>Any data from your Ecowitt weather station. All communication with your Ecowitt device or services is handled locally on your device and is not transmitted to us.</li>
+            <li>Usage data, analytics, or crash reports.</li>
+            <li>Device identifiers.</li>
+        </ul>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">2. How Your Data is Handled (Locally on Your Device)</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            The App connects directly to the Ecowitt.net service based on the configuration you provide within the App. All data retrieved from Ecowitt.net (such as temperature, humidity, wind speed, etc.) is processed and displayed <strong class="font-bold">entirely on your device</strong>. This data is never transmitted to us or any third parties by the App.
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">3. No Third-Party Access to Your Information</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            Since we do not collect any personal or usage data, there is no information for us to share with third parties.
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">4. Data Security</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            As we do not collect or store any of your data, there is no data to secure on our servers. Your Ecowitt weather data remains on your device.
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">5. Children's Privacy</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            Our App does not collect any personal information from anyone, including children under the age of 13. As such, we are in compliance with the Children's Online Privacy Protection Act (COPPA).
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">6. Changes to This Privacy Policy</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+        </p>
+
+        <h2 class="text-xl sm:text-2xl font-semibold text-gray-800 mb-3 sm:mb-4 rounded-md">7. Contact Us</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-6 rounded-md">
+            If you have any questions about this Privacy Policy, please contact us at:
+        </p>
+        <p class="text-base sm:text-lg text-blue-600 hover:underline mb-6 rounded-md">
+            <a href="mailto:support@netterville.cc">support@netterville.cc</a>
+        </p>
+
+        <hr class="border-t border-gray-300 my-6 rounded-md">
+
+        <p class="text-xs sm:text-sm text-gray-500 italic rounded-md">
+            This Privacy Policy is provided for informational purposes only and may be subject to change. Please ensure you review and adapt it to your specific legal requirements and the functionalities of your application.
+        </p>
+    </div>
+</body>
+</html>
